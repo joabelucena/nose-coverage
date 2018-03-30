@@ -1,3 +1,6 @@
 venv/
 report/
 .idea/
+mymath/__pycache__/
+test/__pycache__/
+test/sub_tests/__pycache__/
